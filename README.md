@@ -1,4 +1,4 @@
-# Message App [Live Link](https://omer-genc-message-app.netlify.app/login)
+# Message App [Live Link](https://omer-genc-message-app.netlify.app)
 
 I made this project for improve my programing skills. I learned to much things about state management and programing fundamentals
 ## Technologies
