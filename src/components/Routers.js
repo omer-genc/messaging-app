@@ -1,5 +1,5 @@
 import React from 'react'
-import { Route, Switch, BrowserRouter as Router, Redirect } from 'react-router-dom'
+import { Route, Switch, HashRouter as Router, Redirect } from 'react-router-dom'
 import Chat from '../pages/Chat'
 import Login from '../pages/Login'
 
